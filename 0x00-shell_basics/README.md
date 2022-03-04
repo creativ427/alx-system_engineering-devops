@@ -1,0 +1,1 @@
+shell printing current directory
